@@ -6,7 +6,7 @@ const ITEMS_PER_PAGE = 10;
 module.exports.config = {
   name: "cmdstore",
   aliases: ["cs", "cmds"],
-  author: "ARYAN 🐔",
+  author: "NIROB ",
   role: 0,
   version: "0.1",
   description: {
