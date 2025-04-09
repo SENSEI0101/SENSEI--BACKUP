@@ -10,7 +10,7 @@ module.exports.config = {
   role: 0,
   version: "0.1",
   description: {
-    en: "Commands Store of NIROB",
+    en: "Commands Store of Goatbot v2",
   },
   countDown: 3,
   category: "goatbot",
